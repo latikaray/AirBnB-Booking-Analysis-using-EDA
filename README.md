@@ -89,12 +89,6 @@ This project helps to:
 ```text
 Airbnb-Booking-Analysis/
 │
-├── data/
-│   └── Dataset zipped
-│
-├── notebooks/
-│   └── Airbnb_Booking_Analysis.ipynb
-│
 ├── images/
 │   ├── price_distribution.png
 │   ├── room_type_distribution.png
@@ -102,10 +96,14 @@ Airbnb-Booking-Analysis/
 │   ├── price_vs_roomtype.png
 │   ├── reviews_over_time.png
 │   └── correlation_heatmap.png
-│
-├── requirements.txt
+|
+├── notebooks/
+│   └── Airbnb_Booking_Analysis.ipynb
+|
+├── Airbnb_Open_Data.zip
+├── LICENSE
 ├── README.md
-└── LICENSE
+└── requirements.txt
 ```
 
 ---
